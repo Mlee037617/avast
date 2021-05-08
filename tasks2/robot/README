@@ -1,0 +1,1 @@
+robot -i {tag} testcases/web.robot
